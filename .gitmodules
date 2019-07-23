@@ -1,0 +1,6 @@
+[submodule "bread_placer"]
+	path = bread_placer
+	url = git@github.com:erickpires/bread_placer.git
+[submodule "mes"]
+	path = mes
+	url = git@github.com:erickpires/mes.git

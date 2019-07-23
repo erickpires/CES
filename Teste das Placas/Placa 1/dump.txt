@@ -1,0 +1,4375 @@
+0 + 386 = 387(0) == 386(0)
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 1983
+Valor lido: 1984
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Ok
+Testando RT... Falha ao testar RT com: 64585
+Valor lido: 0
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Ok
+Testando RT... Ok
+Testando Somadores...0 + 10 = 11(0) == 10(0)
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 191
+Valor lido: 192
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Ok
+Testando RT... Falha ao testar RT com: 10382
+Valor lido: 1
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 191
+Valor lido: 192
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 191
+Valor lido: 192
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Ok
+Testando RT... Falha ao testar RT com: 27970
+Valor lido: 0
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Ok
+Testando RT... Falha ao testar RT com: 188
+Valor lido: 1
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Ok
+Testando RT... Falha ao testar RT com: 49260
+Valor lido: 1
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Ok
+Testando RT... Falha ao testar RT com: 40964
+Valor lido: 0
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Ok
+Testando RT... Falha ao testar RT com: 8
+Valor lido: 0
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 191
+Valor lido: 192
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Ok
+Testando RT... Ok
+Testando Somadores...0 + 10 = 11(0) == 10(0)
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 2045
+Valor lido: 2046
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 191
+Valor lido: 192
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 13775
+Valor lido: 13776
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 191
+Valor lido: 192
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Ok
+Testando RT... Falha ao testar RT com: 10722
+Valor lido: 1
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Ok
+Testando RT... Falha ao testar RT com: 41774
+Valor lido: 1
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Ok
+Testando RT... Ok
+Testando Somadores...0 + 18 = 19(0) == 18(0)
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 127
+Valor lido: 128
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Falha ao checar RP com: 479
+Valor lido: 480
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Ok
+Testando RT... Ok
+Testando Somadores...6194 + 3601 = 9793(0) == 9795(0)
+Testando Zero... Ok
+Testando Chaves de Dados... Ok
+Testando RD... Ok
+Testando RP... Ok
+Testando RT... Ok
+Testando Somadores...
